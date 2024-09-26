@@ -1,0 +1,44 @@
+section {
+    border: 3px solid goldenrod;
+    width: 850px;
+    height: 700px;
+} 
+.zay {
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    /* background-color: black; */
+    background: url(IMG_1001.PNG);
+    background-position: 100%;
+    background-size: cover;
+}
+.zah {
+    border: 1px solid red;
+    width: 300px;
+    height: 100px;
+    padding-left: 100px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+    top: -100px;
+    
+}
+.zah h1 {
+    margin-top: 5px;
+    display: inline;
+    margin-right: 30px;
+}
+.zah p {
+   margin-bottom: 0px;
+}
+.fad {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding-left: 200px;
+    background-color: blueviolet;
+    position: relative;
+    left: 500px;
+    top: -200px;
+}
